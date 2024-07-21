@@ -1,4 +1,3 @@
-# Temel imaj olarak Playwright kullan
 FROM mcr.microsoft.com/playwright:v1.45.2-focal
 
 # Çalışma dizini oluştur ve ayarla
