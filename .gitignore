@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+
+# Test raporları
+report/
+
+# Çeşitli geçici dosyalar
+*.tmp
+*.temp
+
+# Yedek dosyalar
+*.bak
+*.swp
+
+# Operasyon sistemine özgü dosyalar
+.DS_Store
+Thumbs.db
+
+# IDE veya editör ayar dosyaları
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
